@@ -1,0 +1,38 @@
+body {
+background-image: url(imagenes\fondo.jpg);
+background-size:contain ;
+background-color: rgb(227, 198, 145);
+margin: 4%;
+padding: 4%;
+}
+header {
+display: flex;
+text-align: center;
+background-color: rgb(224, 127, 127);
+
+color: beige;
+font-family: 'Courier New', Courier, monospace;
+
+}
+nav {
+	background-image: url(imagenes/zocalo.jpg);
+}
+button {
+	background-color: beige;
+	color: rgb(214, 141, 141);
+	font-family:cursive;
+}
+
+		.social{
+			display: flex;
+			width:48px;
+			top:50px;
+			right:0;
+		}
+		aside {
+		display: flex;
+		}
+
+
+
+
